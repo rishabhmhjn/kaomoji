@@ -1,7 +1,12 @@
 Kaomoji ＼(^o^)／
 =================
 
-I just tried to lay out my obsession about kaomoji's
+Random library to generate kaomojis.
+To install via npm ([kaomoji](https://npmjs.org/package/kaomoji)),
+
+```
+npm install -g kaomoji
+```
 
 Usage
 -----
@@ -14,7 +19,7 @@ kaomoji.happy();
 kaomoji.sad();
 kaomoji.thanks();
 kaomoji.congrats();
-// more to come
+// please add more :)
 
 kaomoji.happy.all
 ```
